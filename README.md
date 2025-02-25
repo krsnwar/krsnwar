@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Software Engineer at [Ukirama](https://ukirama.com/)
+- QA Engineer at [Ukirama](https://ukirama.com/)
 
 <!--
 **krsnwar/krsnwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
